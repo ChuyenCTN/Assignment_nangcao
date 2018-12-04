@@ -35,16 +35,18 @@
 
             android:src="@drawable/ic_backspace" />
 
+
+
         <EditText
             android:id="@+id/ed_search_Sach"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_marginLeft="4dp"
-            android:layout_marginTop="4dp"
-            android:layout_marginBottom="4dp"
-            android:layout_weight="10"
             android:background="@drawable/border_edittext"
             android:hint="Tìm kiếm..."
+            android:layout_marginLeft="4dp"
+            android:layout_weight="10"
+            android:layout_marginTop="4dp"
+            android:layout_marginBottom="4dp"
             android:paddingLeft="16dp"
             android:textSize="16dp" />
 
